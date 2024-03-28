@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&textBg=false&fontAlign=54&descAlign=72&descAlignY=74&reversal=true)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=6000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome+to+my+space!)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&size=25&duration=6000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Welcome+to+my+space!)]()
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&section=footer)
