@@ -2,11 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
+<br>
+<div><img align='right' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest"></div>
+<br>
+<div><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812"></div>
+<br>
+
 
 ![header](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![header](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![header](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ![header](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
