@@ -11,9 +11,7 @@
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
 <img  width='425' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park4812)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=park4812&show_icons=true&theme=radical">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&section=footer)
 <!--
