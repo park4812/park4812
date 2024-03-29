@@ -11,9 +11,13 @@
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
 <img  width='425' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
-<img src="https://github-readme-stats.vercel.app/api?username=park4812&show_icons=true&theme=radical">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park4812&show_icons=true&theme=tokyonight)
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&section=footer)
+
+
 <!--
 **park4812/park4812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
