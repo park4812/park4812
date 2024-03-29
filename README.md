@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
 
 
-<img align='right' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
+<img  align='right' width='350' height='170' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
 
