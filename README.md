@@ -8,9 +8,9 @@
 
 ![header](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-<img align='left' width='425' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
+<img  width='425' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park4812)](https://github.com/anuraghazra/github-readme-stats)
