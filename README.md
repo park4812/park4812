@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&textBg=false&fontAlign=54&descAlign=72&descAlignY=74&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=2000&color=gradient&section=header)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812)](https://solved.ac/park4812/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
 
 ![header](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![header](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
