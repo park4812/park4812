@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&textBg=false&fontAlign=54&descAlign=72&descAlignY=74&reversal=true)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Welcome+to+my+Space!;Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&section=footer)
 <!--
