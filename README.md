@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=park4812)](https://github.com/anuraghazra/github-readme-stats)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=&section=footer)
 <!--
 **park4812/park4812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
