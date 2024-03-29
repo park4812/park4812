@@ -5,7 +5,7 @@
 
 <div><img  align='right' width='350' height='170' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest"></div>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
+<div><img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812"></div>
 
 
 
