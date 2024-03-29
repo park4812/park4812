@@ -8,7 +8,6 @@
 
 ![header](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=park4812">
 <img  width='425' src="https://leetcard.jacoblin.cool/park4812?theme=nord&font=Work%20Sans&ext=contest">
 
