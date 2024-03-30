@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&width=2000&color=gradient&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=25&duration=8000&pause=500&color=F7CB71&multiline=true&random=true&width=1000&height=100&lines=Thanks+for+stopping+by.+I+hope+you+find+something+that+inspires+you!)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&random=false&width=435&lines=Welcom+to+my+space!!!)](https://git.io/typing-svg)
 
 ![header](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![header](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
